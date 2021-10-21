@@ -26,7 +26,7 @@ var config = {
           alignment: 'center',
           title: 'All around the country, journalists face violence.',
           image: '',
-          description: "Between Jul 2019 — Aug 2021, <b>228</b> journalists were impacted while covering various events across India.",
+          description: "Between July 2019 to August 2021, <b>228</b> journalists were impacted while covering various events across India.",
           location: {
             center: [78.39148, 23.23709],
             zoom: 3.96,
@@ -86,7 +86,7 @@ var config = {
           alignment: 'right',
           title: 'Anti-CAA protests',
           image: '',
-          description: 'Description + names',
+          description: 'On 11 December, 2019 the Indian Parliament passed the Citizenship Amendment Act (CAA) and the National Register of Citizens (NRC). These laws fast-track granting citizenship to illegal migrants from India’s neighboring countries except if they are Muslim. The passing of the CAA and the NRC sparked peaceful protests across the country that the Police countered with disproportionate violence. In Delhi, peaceful sit-ins gained momentum and widespread media coverage. <p>The anti-CAA protests marked the first unified act of dissent against the ruling Government since it was first elected in 2014 and journalists covering this significant moment in history were subjected to <b>threats</b>, <b>intimidation</b>, <b>FIRs</b> and <b>assault by the Police</b>. ',
           location: {
             center: [84.27144, 26.52720],
             zoom: 4.84,
@@ -119,7 +119,7 @@ var config = {
           alignment: 'right',
           title: 'Delhi Pogrom',
           image: '',
-          description: 'Description + names',
+          description: 'On 23 February 2020, in the context of the anti-CAA/NRC protests, violence broke out in North East Delhi and spread across many neighborhoods in the city. The violence lasted for four days and left 53 people dead, of whom 39 were Muslims. <p>Journalists covering the Delhi Pogrom were subjected to varying degrees of violence including <b>threats, intimidation, physical assault and attacks</b>. There were reports of journalists being stopped and asked for their names and religious identities, several others were at the receiving end of <b>mob violence</b>. <p>In a situation where the State machinery was complicit in the communal violence that engulfed North East Delhi, journalists on the ground were left to fend for themselves and continue doing their jobs at great personal risk.',
           location: {
             center: [77.20469, 28.60891],
             zoom: 7.91,
@@ -152,7 +152,7 @@ var config = {
           alignment: 'right',
           title: 'COVID-19 coverage',
           image: '',
-          description: 'Description <br>Mushtaq Ahmad Ganai • Prasanjit Dutta • Zubair Ahmed • Basant Sahu • Pawan Chaudhary • Damodharan • Dhaval Patel',
+          description: 'On 24 March 2020, the Indian Government imposed a strict nationwide lockdown with no warning for preparation. The Police enforced the curfew with unrestrained violence and videos of this brutality emerged online immediately. The Indian Government tried to suppress the reporting of COVID-19 ground realities by forcing journalists to publish only pre-approved information. Similarly, during the second wave of COVID-19 in India in 2021, journalists who have been painstakingly reporting from the field and who questioned the Government’s apathy and negligence have been <b>threatened</b> and accused of spreading rumors about the public health crisis. <b>FIRs, summons, physical attacks, threats and intimidation</b> were some of the common patterns of violence against journalists who reported on issues related to the pandemic.',
           location: {
             center: [77.03104, 23.18047],
             zoom: 4.06,
@@ -183,10 +183,9 @@ var config = {
       {
           id: 'farmer',
           alignment: 'right',
-          title: 'Farmer’s Protest',
+          title: 'Farmers’ Protest',
           image: '',
-          description: 'On 20 September 2020, three Farm Bills were passed in a haste in the Rajya Sabha, by a voice vote. Opposition parties and farmers’ unions protested the decision since the aim of the Bill is to push the agricultural sector in India from a government-run to a private-run sector. Farmers’ unions have strongly opposed these Bills and demanded their complete revocation. Farmers organized peaceful marches, sit-in protests and contestations across the country. The State resorted to tactics of repression and violence to counter the protests.'+
-          '<ul><li>Mandeep Punia (Freelance journalist) faced detention and arrest at Singhu border.</li><li>Dharmender Singh (Online News India) faced detention at Singhu border.</li><li>The Uttar Pradesh, Madhya Pradesh, Karnataka and Haryana Police filed FIRs against 6 senior journalists and editors – Rajdeep Sardesai (India Today), Mrinal Pande (Prasar Bharati), Zafar Agha (Qaumi Awaz), Paresh Nath, Anant Nath & Vinod K Jose (The Caravan) for sedition, criminal conspiracy, and promoting enmity for reporting and tweeting on the death of a protester during the Republic Day tractor rally organized by farmers protesting against the Indian government’s farm laws. The Delhi police also filed a case against them.</li><li>The Uttar Pradesh Police filed an FIR against Siddharth Varadarajan (The Wire) and Ismat Ara (The Wire) for tweeting an article published by the news website on the farmer who died during the Republic Day parade.</li>',
+          description: 'On 20 September 2020, Rajya Sabha, the upper house of the Indian Parliament, passed in a haste by a voice vote three Farm Bills. Opposition parties and farmers’ unions protested the decision since the aim of the Bill is to push the agricultural sector in India from a government-run to a private-run sector. Farmers’ unions strongly oppose these Bills and demanded their complete revocation. Farmers have organized peaceful marches, sit-in protests and contestations across the country. The State resorted to tactics of repression and violence to counter the protests. <p><b>First Information Reports (FIRs)</b> have been filed against those who protested and the Police <b>arrested</b> journalists, labor union representatives and farmers. <b>Police brutality and custodial violence</b> have been routinely used against protesting farmers and those who have been arrested.',
           location: {
             center: [79.17956, 22.73837],
             zoom: 4.75,
@@ -219,7 +218,7 @@ var config = {
           alignment: 'right',
           title: '…and many other reasons',
           image: '',
-          description: 'Ever since Prime Minister Narendra Modi’s Bharatiya Janata Party was re-elected in 2019, pressure has increased on the media to toe the Hindu nationalist government’s line. The coordinated hate campaigns waged on social networks against journalists who question the Government or uncover the truth behind the Government’s actions elicit calls for the journalists concerned to be murdered. The campaigns are particularly violent when the targets are women. Criminal prosecutions are often used to gag journalists critical of the authorities, with some prosecutors invoking Section 124a of the penal code, under which “sedition” is punishable by life imprisonment. Journalists who’ve reported on crucial and sensitive issues have been attacked, assaulted and in some cases killed for their work. It is important to understand the everyday, isolated instances, where journalists are made the targets of violence. These instances might not be reported, but the threat of violence is ever present. <p>',
+          description: 'Ever since Prime Minister Narendra Modi’s Bharatiya Janata Party was re-elected in 2019, pressure has increased on the media to toe the Hindu nationalist government’s line. The <b>coordinated hate campaigns</b> waged on social networks against journalists who question the Government or uncover the truth behind the Government’s actions elicit calls for the journalists concerned to be murdered. The campaigns are particularly violent when the targets are women. <b>Criminal prosecutions</b> are often used to gag journalists critical of the authorities, with some prosecutors invoking Section 124a of the penal code, under which “sedition” is punishable by life imprisonment. Journalists who’ve reported on crucial and sensitive issues have been <b>attacked, assaulted</b> and in some cases <b>killed</b> for their work. It is important to understand the everyday, isolated instances, where journalists are made the targets of violence. These instances might not be reported, but the threat of violence is ever present.',
           location: {
             center: [78.54067, 22.07983],
             zoom: 4.13,

@@ -4,8 +4,8 @@ var config = {
     showMarkers: false,
     theme: 'light',
     title: 'Mapping patterns of violence against journalists in India',
-    subtitle: '(May 2019 — August 2021)',
-    byline: '',
+    subtitle: '',
+    byline: '(May 2019 — August 2021)',
     footer: "",
     chapters: [
       {
@@ -204,7 +204,7 @@ var config = {
           alignment: 'center',
           title: '…and many other reasons (104)',
           image: '',
-          description: 'Ever since Prime Minister Narendra Modi’s Bharatiya Janata Party was re-elected in 2019, pressure has increased on the media to toe the Hindu nationalist government’s line. The <b>coordinated hate campaigns</b> waged on social networks against journalists who question the Government or uncover the truth behind the Government’s actions elicit calls for the journalists concerned to be murdered. The campaigns are particularly violent when the targets are women. <p><b>Criminal prosecutions</b> are often used to gag journalists critical of the authorities, with some prosecutors invoking Section 124a of the penal code, under which “sedition” is punishable by life imprisonment. Journalists who’ve reported on crucial and sensitive issues have been <b>attacked, assaulted</b> and in some cases <b>killed</b> for their work. <p>It is important to understand the everyday, isolated instances, where journalists are made the targets of violence. These instances might not be reported, but the threat of violence is ever present.',
+          description: 'Ever since Prime Minister Narendra Modi’s Bharatiya Janata Party was re-elected in 2019, pressure has increased on the media to toe the Hindu nationalist government’s line. The <b>coordinated hate campaigns</b> waged on social media against journalists who question the Government or uncover the truth behind the Government’s actions elicit calls for the journalists concerned to be murdered. The campaigns are particularly violent when the targets are women. <p><b>Criminal prosecutions</b> are often used to gag journalists critical of the authorities, with some prosecutors invoking Section 124a of the Penal Code, under which “sedition” is punishable by life imprisonment. Journalists who’ve reported on crucial and sensitive issues have been <b>attacked, assaulted</b> and in some cases <b>killed</b> for their work. <p>It is important to understand the everyday, isolated instances, where journalists are made the targets of violence. These instances might not be reported, but the threat of violence is ever present.',
           location: {
             center: [78.54067, 22.07983],
             zoom: 4.13,
@@ -236,8 +236,8 @@ var config = {
           id: 'end',
           alignment: 'center',
           title: '',
-          image: 'assets/journalists.jpg',
-          description: "Read further to know more about these events, and the journalists that were imapacted during these events.",
+          image: '',
+          description: "<a href='https://www.thepolisproject.com/research/patterns-of-violence-against-journalists-in-india/' target='_blank'>Read further to know more about these events and the journalists that were impacted.</a>",
           location: {
             center: [78.39148, 23.23709],
             zoom: 3.96,

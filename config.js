@@ -104,7 +104,7 @@ var config = {
           id: 'delhi',
           alignment: 'right',
           title: 'Delhi Pogrom (19)',
-          image: '',
+          image: 'assets/delhi.jpg',
           description: 'Between 23 and 29 February 2020, during the anti-CAA/NRC protests, violence broke out in North East Delhi and spread across many neighborhoods in the city. The violence lasted for four days and left 53 people dead, of whom 39 were Muslims. <p>Journalists covering the Delhi Pogrom were subjected to varying degrees of violence including <b>threats, intimidation, physical assault and attacks</b>. There were reports of journalists being stopped and asked for their names and religious identities, several others were at the receiving end of <b>mob violence</b>.',
           location: {
             center: [77.20469, 28.60891],
